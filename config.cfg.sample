@@ -1,0 +1,4 @@
+[config]
+email = your@mail.com
+password = your_password
+client_id = 1234567

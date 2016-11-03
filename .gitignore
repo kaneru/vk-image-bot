@@ -1,0 +1,5 @@
+.DS_Store
+config.cfg
+*.pyc
+images_to_post/
+posted_images/
